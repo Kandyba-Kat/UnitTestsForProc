@@ -1,0 +1,9 @@
+Container contains 2 elements.
+Ñountry: Africa;
+Proverb: A roaring lion kills nothing!
+Evaluetion: 6.
+Number of punctuation marks: 1.
+Author's name: Emiliano Zapata;
+Aphorism: Iâ€™d rather die on my feet, than live on my knees.
+Evaluetion: 5.
+Number of punctuation marks: 2.

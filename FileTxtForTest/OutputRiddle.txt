@@ -1,0 +1,5 @@
+Container contains 1 elements.
+Answer: Night falls and day breaks;
+Riddle: What falls, but does not break, and what breaks but does not fall?
+Evaluetion: 5.
+Number of punctuation marks: 3.

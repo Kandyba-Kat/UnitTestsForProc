@@ -1,0 +1,17 @@
+Container contains 4 elements.
+Ñountry: Africa;
+Proverb: A roaring lion kills nothing
+Evaluetion: 6.
+Number of punctuation marks: 0.
+Author's name: Lao Tzu;
+Aphorism: A journey of a thousand miles begins with a single step
+Evaluetion: 8.
+Number of punctuation marks: 0.
+Author's name: Emiliano Zapata;
+Aphorism: Iâ€™d rather die on my feet, than live on my knees
+Evaluetion: 5.
+Number of punctuation marks: 1.
+Answer: River;
+Riddle: It can run and does not walk, has a mouth and does not talk, has a head and does not weep, has a bed and does not sleep?
+Evaluetion: 7.
+Number of punctuation marks: 4.

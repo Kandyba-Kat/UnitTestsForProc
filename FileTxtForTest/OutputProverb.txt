@@ -1,0 +1,5 @@
+Container contains 1 elements.
+Ñountry: Africa;
+Proverb: A roaring lion kills nothing.
+Evaluetion: 6.
+Number of punctuation marks: 1.
